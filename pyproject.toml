@@ -26,9 +26,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/capt"
-Repository = "https://github.com/yourusername/capt"
-Issues = "https://github.com/yourusername/capt/issues"
+[project.urls]
+Homepage = "https://github.com/quixline/capt_archive_converter"
+Repository = "https://github.com/quixline/capt_archive_converter"
+Issues = "https://github.com/quixline/capt_archive_converter/issues"
 
 [project.scripts]
 # The main function is in the 'main' sub-package now
